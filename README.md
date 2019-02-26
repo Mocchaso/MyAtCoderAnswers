@@ -26,7 +26,7 @@ AtCoderのコンテストは大きく以下の4種類に分けられます。
 2. **常設中のコンテスト**  
 AtCoderのトップページに掲載されているコンテスト。AtCoderに慣れるための練習場といった位置づけのようです。  
   2-1. [practice contest](https://atcoder.jp/contests/practice)   
-  2-2. [AtCoder Programming Guide for beginners(APG4b)](https://atcoder.jp/contests/APG4b)  
+  2-2. [AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b)  
   2-3. [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)  
 
 ## 記録
