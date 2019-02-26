@@ -18,10 +18,10 @@
 1. **[AtCoderProblems](http://kenkoooo.com/atcoder/)**  
 過去にAtCoderで開催されたプロコンのリンクをまとめてあるサイト。GitHubでソースコードも公開されています。  
 AtCoderのコンテストは大きく以下の4種類に分けられます。  
-  1-1. AtCoder Beginner Contest  
-  1-2. AtCoder Regular Contest  
-  1-3. AtCoder Grand Contest  
-  1-4. その他(企業絡みのコンテスト等)  
+  1-1. AtCoder Beginner Contest（ABC）  
+  1-2. AtCoder Regular Contest（ARC）  
+  1-3. AtCoder Grand Contest（AGC）  
+  1-4. その他（企業絡みのコンテスト等）  
 
 2. **常設中のコンテスト**  
 AtCoderのトップページに掲載されているコンテスト。AtCoderに慣れるための練習場といった位置づけのようです。  
