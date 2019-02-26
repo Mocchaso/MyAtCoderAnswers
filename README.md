@@ -23,4 +23,5 @@ AtCoderトップページに載っている以下3つに取り組んでいきま
   * [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
 
 ## 記録
-* 2019.2.9 - AtCoderアカウント作成
+* 2019.2.9 - AtCoderアカウントを作成
+* 2019.2.26 - 本リポジトリを作成
